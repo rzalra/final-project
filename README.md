@@ -1,6 +1,7 @@
 # Simple Interest Calculator
 
 This project calculates simple interest.
+Reverting previous change
 
 ## Features
 - Calculates simple interest based on user input
