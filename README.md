@@ -1,11 +1,20 @@
-# Final Project
+# Simple Interest Calculator
 
-This repository contains the final project for Git and GitHub course.
+This project is a simple interest calculator implemented using a shell script.
 
 ## Features
-- Simple interest calculation script
-- Proper documentation
-- Contribution guidelines
+- Calculates simple interest based on user input
+- Easy to use script
+- Includes basic documentation
+
+## Formula
+Simple Interest = (Principal × Rate × Time) / 100
+
+## Usage
+Run the script and enter:
+- Principal amount
+- Rate of interest
+- Time period
 
 ## Author
 Rizal Nugrahanto
