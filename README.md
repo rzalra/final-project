@@ -1,6 +1,6 @@
 # Simple Interest Calculator
 
-This project is a simple interest calculator implemented using a shell script.
+This project calculates simple interest.
 
 ## Features
 - Calculates simple interest based on user input
